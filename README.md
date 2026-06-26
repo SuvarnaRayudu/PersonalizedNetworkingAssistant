@@ -58,7 +58,7 @@ README.md
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SuvarnaRayudu/PersonalizedNetworkingAssistant.git
 ```
 
 Create virtual environment
